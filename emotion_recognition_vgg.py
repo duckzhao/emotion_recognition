@@ -7,7 +7,7 @@ import os
 import shutil
 
 batch_size = 64
-epoch_num = 30
+epoch_num = 100
 shuffly_buffer_size = 1024
 learning_rate = 0.001
 train_tfrecord_path = './fer2013/train.tfrecord'
