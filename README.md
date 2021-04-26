@@ -1,7 +1,7 @@
 # emotion_recognition
 使用fer2013数据集、tf2、opencv等完成人脸情绪识别
 
-数据集下载地址：
+fer2013数据集下载地址：
 
 链接：https://pan.baidu.com/s/1MqtVhBFs2fXfnNRczpuytg 
 
